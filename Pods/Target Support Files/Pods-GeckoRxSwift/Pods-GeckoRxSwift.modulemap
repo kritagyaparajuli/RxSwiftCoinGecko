@@ -1,0 +1,6 @@
+framework module Pods_GeckoRxSwift {
+  umbrella header "Pods-GeckoRxSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
